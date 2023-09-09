@@ -1,0 +1,81 @@
+ body {
+     background-color: orange;
+ }
+
+ .container {
+     width: 380px;
+     height: 600px;
+     background-color: white;
+     text-align: center;
+     margin-left: 35%;
+
+ }
+ .fname
+ {
+    width: 128 px;
+    height: 25px;
+    margin-top: 22px;
+    border: 1px solid orange;
+ }
+ .lname
+ {
+    width: 128px;
+    height: 25px;
+    margin-top: 22px;
+     border: 1px solid orange;
+ }
+ .fnm
+ {
+    display:flex;  
+    margin-left: 33px;
+    margin-top: 22px;
+ }
+
+.input.inpt {
+     height: 25px;
+     width: 300;
+     border: 1px solid orange;
+     margin: top 22px; ;
+ }
+ .input input[type=file]
+ {
+    height: 27px;
+    width: 300px;
+ }
+ .input i
+ {
+padding: 6px;
+border: 1px solid orange;
+height: 18px;
+width: 15px;
+margin-top: 22px;
+ }
+ .Gender
+ {
+    margin-top: 22px;
+    font-size: 22px;
+    margin-right: 160px;
+ }
+ button
+ {
+    height: 33px;
+    width: 340;
+    cursor: pointer;
+    border: 2px solid black;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    margin-top: 25px; 
+
+
+ }
+ button:hover
+ {
+
+background-color: green;
+
+ }
+ .container h1{
+   padding: 20px;
+
+ }
